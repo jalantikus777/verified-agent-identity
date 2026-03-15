@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'rtantan888'
         required: true
-        default: 'jalantikus777'
+        default: 'rtantan888'
       agent_description:
         description: 'AAI'
         required: true
